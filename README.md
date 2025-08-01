@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning C# and Vue.js to develop skills needed to make RESTful API Web Applications. I also try to broaden programming horizons.<br>
+🌱 I’m currently learning C# and js (react) to develop skills needed to make RESTful API Web Applications. I also try to broaden programming horizons.<br>
 
 
 ## 🌐 Socials:
